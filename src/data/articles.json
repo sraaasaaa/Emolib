@@ -336,5 +336,226 @@
             "mla": "Ghosh, Soumitra, Asif Ekbal, and Pushpak Bhattacharyya. \"VAD-assisted multitask transformer framework for emotion recognition and intensity prediction on suicide notes.\" Information Processing & Management 60.2 (2023): 103234.",
             "bibtex": "@article{ghosh2023vad,\n title={VAD-assisted multitask transformer framework for emotion recognition and intensity prediction on suicide notes},\n author={Ghosh, Soumitra and Ekbal, Asif and Bhattacharyya, Pushpak},\n journal={Information Processing /& Management},\n volume={60},\n number={2},\n pages={103234},\n year={2023},\n publisher={Elsevier}\n }"
         }
+    },
+  {
+    "id": "14",
+    "title": "The Hourglass of Emotions",
+    "datasets": ["-"],
+    "messageType": "-",
+    "size": "-",
+    "annotationModel": "Hourglass model (Pleasantness, Attention, Sensitivity, Aptitude)",
+    "detectionModel": "-",
+    "metrics": ["-"],
+    "year": "2012",
+    "author": "E Cambria, A Livingstone, A Hussain",
+    "downloadUrl": "https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&q=The+hourglass+of+emotions+Cambria+Livingstone+Hussain&btnG=",
+    "collectionId": "2",
+    "citations": {
+      "apa": "Cambria, E., Livingstone, A., & Hussain, A. (2012). The hourglass of emotions. In Cognitive Behavioural Systems (pp. 144–157). Springer-Verlag Berlin Heidelberg.",
+      "iso690": "CAMBRIA, Erik, LIVINGSTONE, Andrew, et HUSSAIN, Amir. The hourglass of emotions. In : Cognitive Behavioural Systems. Springer-Verlag Berlin Heidelberg, 2012. p. 144-157.",
+      "mla": "Cambria, Erik, Andrew Livingstone, and Amir Hussain. \"The Hourglass of Emotions.\" Cognitive Behavioural Systems. Springer-Verlag Berlin Heidelberg, 2012, pp. 144–157.",
+      "bibtex": "@incollection{cambria2012hourglass,\n  title={The hourglass of emotions},\n  author={Cambria, Erik and Livingstone, Andrew and Hussain, Amir},\n  booktitle={Cognitive Behavioural Systems},\n  pages={144--157},\n  year={2012},\n  publisher={Springer-Verlag Berlin Heidelberg}\n}"
     }
+  },
+  {
+    "id": "17",
+    "title": "Text-Based Emotion Detection: Advances, Challenges, and Opportunities",
+    "datasets": ["Various (survey)"],
+    "messageType": "-",
+    "size": "-",
+    "annotationModel": "-",
+    "detectionModel": "-",
+    "metrics": ["Various performance metrics surveyed"],
+    "year": "2020",
+    "author": "F A Acheampong, C Wenyu, H Nunoo-Mensah",
+    "downloadUrl": "https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&q=Text-based+emotion+detection+Advances+challenges+and+opportunities+Acheampong&btnG=",
+    "collectionId": "2",
+    "citations": {
+      "apa": "Acheampong, F. A., Wenyu, C., & Nunoo-Mensah, H. (2020). Text-based emotion detection: Advances, challenges, and opportunities. Engineering Reports, 2(7), e12189.",
+      "iso690": "ACHEAMPONG, Francis Akituma, WENYU, Chen, et NUNOO-MENSAH, Henry. Text-based emotion detection: Advances, challenges, and opportunities. Engineering Reports, 2020, vol. 2, no 7, p. e12189.",
+      "mla": "Acheampong, Francis Akituma, Chen Wenyu, and Henry Nunoo-Mensah. \"Text-Based Emotion Detection: Advances, Challenges, and Opportunities.\" Engineering Reports, vol. 2, no. 7, 2020, e12189.",
+      "bibtex": "@article{acheampong2020text,\n  title={Text-based emotion detection: Advances, challenges, and opportunities},\n  author={Acheampong, Francis Akituma and Wenyu, Chen and Nunoo-Mensah, Henry},\n  journal={Engineering Reports},\n  volume={2},\n  number={7},\n  pages={e12189},\n  year={2020},\n  publisher={Wiley}\n}"
+    }
+  },
+  {
+    "id": "18",
+    "title": "NRC VAD Lexicon v2: Norms for Valence, Arousal, and Dominance for Over 55K English Terms",
+    "datasets": ["NRC VAD Lexicon v2"],
+    "messageType": "Lexicon",
+    "size": "55,000+ terms",
+    "annotationModel": "VAD",
+    "detectionModel": "-",
+    "metrics": ["-"],
+    "year": "2025",
+    "author": "S M Mohammad",
+    "downloadUrl": "https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&q=NRC+VAD+Lexicon+v2+norms+valence+arousal+dominance+Mohammad+2025&btnG=",
+    "collectionId": "3",
+    "citations": {
+      "apa": "Mohammad, S. M. (2025). NRC VAD Lexicon v2: Norms for valence, arousal, and dominance for over 55K English terms. arXiv preprint arXiv:2503.23547.",
+      "iso690": "MOHAMMAD, Saif M. NRC VAD Lexicon v2: Norms for valence, arousal, and dominance for over 55K English terms. arXiv preprint arXiv:2503.23547, 2025.",
+      "mla": "Mohammad, Saif M. \"NRC VAD Lexicon v2: Norms for Valence, Arousal, and Dominance for Over 55K English Terms.\" arXiv preprint arXiv:2503.23547 (2025).",
+      "bibtex": "@article{mohammad2025nrc,\n  title={NRC VAD Lexicon v2: Norms for valence, arousal, and dominance for over 55k English terms},\n  author={Mohammad, Saif M.},\n  journal={arXiv preprint arXiv:2503.23547},\n  year={2025}\n}"
+    }
+  },
+  {
+    "id": "19",
+    "title": "Obtaining Reliable Human Ratings of Valence, Arousal, and Dominance for 20,000 English Words",
+    "datasets": ["NRC VAD Lexicon"],
+    "messageType": "Lexicon",
+    "size": "20,000 words",
+    "annotationModel": "VAD",
+    "detectionModel": "-",
+    "metrics": ["-"],
+    "year": "2018",
+    "author": "S Mohammad",
+    "downloadUrl": "https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&q=Obtaining+reliable+human+ratings+of+valence+arousal+and+dominance+for+20000+English+words+Mohammad+2018&btnG=",
+    "collectionId": "3",
+    "citations": {
+      "apa": "Mohammad, S. (2018, July). Obtaining reliable human ratings of valence, arousal, and dominance for 20,000 English words. In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 174-184).",
+      "iso690": "MOHAMMAD, Saif. Obtaining reliable human ratings of valence, arousal, and dominance for 20,000 English words. In : Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2018. p. 174-184.",
+      "mla": "Mohammad, Saif. \"Obtaining Reliable Human Ratings of Valence, Arousal, and Dominance for 20,000 English Words.\" Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2018, pp. 174-184.",
+      "bibtex": "@inproceedings{mohammad2018obtaining,\n  title={Obtaining reliable human ratings of valence, arousal, and dominance for 20,000 {English} words},\n  author={Mohammad, Saif},\n  booktitle={Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},\n  pages={174--184},\n  year={2018}\n}"
+    }
+  },
+  {
+    "id": "20",
+    "title": "Affective Norms for 720 French Words Rated by Children and Adolescents (FANchild)",
+    "datasets": ["FANchild"],
+    "messageType": "Lexicon",
+    "size": "720 words",
+    "annotationModel": "Valence, Arousal, Imageability",
+    "detectionModel": "-",
+    "metrics": ["-"],
+    "year": "2017",
+    "author": "C Monnier, A Syssau",
+    "downloadUrl": "https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&q=Affective+norms+for+720+French+words+rated+by+children+and+adolescents+FANchild+Monnier+Syssau&btnG=",
+    "collectionId": "3",
+    "citations": {
+      "apa": "Monnier, C., & Syssau, A. (2017). Affective norms for 720 French words rated by children and adolescents (FANchild). Behavior Research Methods, 49(5), 1882-1893.",
+      "iso690": "MONNIER, Cyril, et SYSSAU, Arielle. Affective norms for 720 French words rated by children and adolescents (FANchild). Behavior Research Methods, 2017, vol. 49, no 5, p. 1882-1893.",
+      "mla": "Monnier, Cyril, and Arielle Syssau. \"Affective Norms for 720 French Words Rated by Children and Adolescents (FANchild).\" Behavior Research Methods, vol. 49, no. 5, 2017, pp. 1882-1893.",
+      "bibtex": "@article{monnier2017affective,\n  title={Affective norms for 720 {French} words rated by children and adolescents ({FANchild})},\n  author={Monnier, Cyril and Syssau, Arielle},\n  journal={Behavior Research Methods},\n  volume={49},\n  number={5},\n  pages={1882--1893},\n  year={2017},\n  publisher={Springer}\n}"
+    }
+  },
+  {
+    "id": "21",
+    "title": "NRC Emotion Lexicon",
+    "datasets": ["NRC Emotion Lexicon"],
+    "messageType": "Lexicon",
+    "size": "14,182 words",
+    "annotationModel": "Ekman (8 emotions + positive/negative)",
+    "detectionModel": "-",
+    "metrics": ["-"],
+    "year": "2013",
+    "author": "S M Mohammad, P D Turney",
+    "downloadUrl": "https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&q=NRC+emotion+lexicon+Mohammad+Turney+2013&btnG=",
+    "collectionId": "3",
+    "citations": {
+      "apa": "Mohammad, S. M., & Turney, P. D. (2013). NRC emotion lexicon. National Research Council, Canada, 2, 234.",
+      "iso690": "MOHAMMAD, Saif M. et TURNEY, Peter D. NRC emotion lexicon. National Research Council, Canada, 2013, vol. 2, p. 234.",
+      "mla": "Mohammad, Saif M., and Peter D. Turney. \"NRC Emotion Lexicon.\" National Research Council, Canada, vol. 2, 2013, p. 234.",
+      "bibtex": "@article{mohammad2013nrc,\n  title={{NRC} emotion lexicon},\n  author={Mohammad, Saif M. and Turney, Peter D.},\n  journal={National Research Council, Canada},\n  volume={2},\n  pages={234},\n  year={2013}\n}"
+    }
+  },
+  {
+    "id": "23",
+    "title": "A New ANEW: Evaluation of a Word List for Sentiment Analysis in Microblogs",
+    "datasets": ["AFINN"],
+    "messageType": "Lexicon / Microblogs",
+    "size": "2,477 words",
+    "annotationModel": "Valence (sentiment score)",
+    "detectionModel": "-",
+    "metrics": ["-"],
+    "year": "2011",
+    "author": "F Å Nielsen",
+    "downloadUrl": "https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&q=A+new+ANEW+evaluation+of+a+word+list+for+sentiment+analysis+in+microblogs+Nielsen+2011&btnG=",
+    "collectionId": "3",
+    "citations": {
+      "apa": "Nielsen, F. Å. (2011). A new ANEW: Evaluation of a word list for sentiment analysis in microblogs. arXiv preprint arXiv:1103.2903.",
+      "iso690": "NIELSEN, Finn Årup. A new ANEW: Evaluation of a word list for sentiment analysis in microblogs. arXiv preprint arXiv:1103.2903, 2011.",
+      "mla": "Nielsen, Finn Årup. \"A New ANEW: Evaluation of a Word List for Sentiment Analysis in Microblogs.\" arXiv preprint arXiv:1103.2903 (2011).",
+      "bibtex": "@article{nielsen2011new,\n  title={A new {ANEW}: Evaluation of a word list for sentiment analysis in microblogs},\n  author={Nielsen, Finn {\\AA}rup},\n  journal={arXiv preprint arXiv:1103.2903},\n  year={2011}\n}"
+    }
+  },
+  {
+    "id": "26",
+    "title": "Textual Emotion Recognition Method Based on ALBERT-BiLSTM Model and SVM-NB Classification",
+    "datasets": ["SemEval 2018 task 1 EC", "NLPCC2018"],
+    "messageType": "Tweets",
+    "size": "-",
+    "annotationModel": "11 emotions",
+    "detectionModel": "ALBERT-BiLSTM + SVM-NB",
+    "metrics": ["Accuracy", "F1-score"],
+    "year": "2023",
+    "author": "Z Ye, T Zuo, W Chen, Y Li, Z Lu",
+    "downloadUrl": "https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&q=Textual+emotion+recognition+method+based+on+ALBERT-BiLSTM+model+and+SVM-NB+classification+Ye+2023&btnG=",
+    "collectionId": "1",
+    "citations": {
+      "apa": "Ye, Z., Zuo, T., Chen, W., Li, Y., & Lu, Z. (2023). Textual emotion recognition method based on ALBERT-BiLSTM model and SVM-NB classification. Soft Computing, 27(8), 5063-5075.",
+      "iso690": "YE, Zhibin, ZUO, Ting, CHEN, Wei, et al. Textual emotion recognition method based on ALBERT-BiLSTM model and SVM-NB classification. Soft Computing, 2023, vol. 27, no 8, p. 5063-5075.",
+      "mla": "Ye, Zhibin, et al. \"Textual Emotion Recognition Method Based on ALBERT-BiLSTM Model and SVM-NB Classification.\" Soft Computing, vol. 27, no. 8, 2023, pp. 5063-5075.",
+      "bibtex": "@article{ye2023textual,\n  title={Textual emotion recognition method based on {ALBERT-BiLSTM} model and {SVM-NB} classification},\n  author={Ye, Zhibin and Zuo, Ting and Chen, Wei and Li, Yongxian and Lu, Zhiping},\n  journal={Soft Computing},\n  volume={27},\n  number={8},\n  pages={5063--5075},\n  year={2023},\n  publisher={Springer}\n}"
+    }
+  },
+  {
+    "id": "27",
+    "title": "Machine Learning-Based Model for Customer Emotion Detection in Hotel Booking Services",
+    "datasets": ["-"],
+    "messageType": "Hotel reviews",
+    "size": "-",
+    "annotationModel": "Ekman",
+    "detectionModel": "Machine Learning (various)",
+    "metrics": ["Accuracy", "F1-score"],
+    "year": "2024",
+    "author": "N Nguyen, T H Nguyen, Y N Nguyen, D Doan, M Nguyen, V H Nguyen",
+    "downloadUrl": "https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&q=Machine+learning+based+model+for+customer+emotion+detection+in+hotel+booking+services+Nguyen+2024&btnG=",
+    "collectionId": "1",
+    "citations": {
+      "apa": "Nguyen, N., Nguyen, T. H., Nguyen, Y. N., Doan, D., Nguyen, M., & Nguyen, V. H. (2024). Machine learning-based model for customer emotion detection in hotel booking services. Journal of Hospitality and Tourism Insights, 7(3), 1294-1312.",
+      "iso690": "NGUYEN, Nhan, NGUYEN, Thi Hoang, NGUYEN, Yen Nhi, et al. Machine learning-based model for customer emotion detection in hotel booking services. Journal of Hospitality and Tourism Insights, 2024, vol. 7, no 3, p. 1294-1312.",
+      "mla": "Nguyen, Nhan, et al. \"Machine Learning-Based Model for Customer Emotion Detection in Hotel Booking Services.\" Journal of Hospitality and Tourism Insights, vol. 7, no. 3, 2024, pp. 1294-1312.",
+      "bibtex": "@article{nguyen2024machine,\n  title={Machine learning-based model for customer emotion detection in hotel booking services},\n  author={Nguyen, Nhan and Nguyen, Thi Hoang and Nguyen, Yen Nhi and Doan, Dung and Nguyen, Minh and Nguyen, Van Hau},\n  journal={Journal of Hospitality and Tourism Insights},\n  volume={7},\n  number={3},\n  pages={1294--1312},\n  year={2024},\n  publisher={Emerald}\n}"
+    }
+  },
+  {
+    "id": "28",
+    "title": "A Review on Emotion Detection by Using Deep Learning Techniques",
+    "datasets": ["Various (survey)"],
+    "messageType": "-",
+    "size": "-",
+    "annotationModel": "-",
+    "detectionModel": "-",
+    "metrics": ["Various performance metrics surveyed"],
+    "year": "2024",
+    "author": "T Chutia, N Baruah",
+    "downloadUrl": "https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&q=A+review+on+emotion+detection+by+using+deep+learning+techniques+Chutia+Baruah+2024&btnG=",
+    "collectionId": "2",
+    "citations": {
+      "apa": "Chutia, T., & Baruah, N. (2024). A review on emotion detection by using deep learning techniques. Artificial Intelligence Review, 57(8), 203.",
+      "iso690": "CHUTIA, Tupali, et BARUAH, Nabanita. A review on emotion detection by using deep learning techniques. Artificial Intelligence Review, 2024, vol. 57, no 8, p. 203.",
+      "mla": "Chutia, Tupali, and Nabanita Baruah. \"A Review on Emotion Detection by Using Deep Learning Techniques.\" Artificial Intelligence Review, vol. 57, no. 8, 2024, p. 203.",
+      "bibtex": "@article{chutia2024review,\n  title={A review on emotion detection by using deep learning techniques},\n  author={Chutia, Tupali and Baruah, Nabanita},\n  journal={Artificial Intelligence Review},\n  volume={57},\n  number={8},\n  pages={203},\n  year={2024},\n  publisher={Springer}\n}"
+    }
+  },
+  {
+    "id": "29",
+    "title": "Text-Based Emotion Detection Using CNN-BiLSTM",
+    "datasets": ["-"],
+    "messageType": "-",
+    "size": "-",
+    "annotationModel": "Ekman",
+    "detectionModel": "CNN-BiLSTM",
+    "metrics": ["Accuracy", "F1-score"],
+    "year": "2022",
+    "author": "D E Cahyani, A P Wibawa, D D Prasetya, L Gumilar, F Akhbar, E R Triyulinar",
+    "downloadUrl": "https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&q=Text-based+emotion+detection+using+CNN-BiLSTM+Cahyani+2022&btnG=",
+    "collectionId": "1",
+    "citations": {
+      "apa": "Cahyani, D. E., Wibawa, A. P., Prasetya, D. D., Gumilar, L., Akhbar, F., & Triyulinar, E. R. (2022, October). Text-based emotion detection using CNN-BiLSTM. In 2022 4th International Conference on Cybernetics and Intelligent System (ICORIS) (pp. 1-5). IEEE.",
+      "iso690": "CAHYANI, Dinda Eldora, WIBAWA, Adhi Prahara, PRASETYA, Dewa Dharma, et al. Text-based emotion detection using CNN-BiLSTM. In : 2022 4th International Conference on Cybernetics and Intelligent System (ICORIS). IEEE, 2022. p. 1-5.",
+      "mla": "Cahyani, Dinda Eldora, et al. \"Text-Based Emotion Detection Using CNN-BiLSTM.\" 2022 4th International Conference on Cybernetics and Intelligent System (ICORIS). IEEE, 2022, pp. 1-5.",
+      "bibtex": "@inproceedings{cahyani2022text,\n  title={Text-based emotion detection using {CNN-BiLSTM}},\n  author={Cahyani, Dinda Eldora and Wibawa, Adhi Prahara and Prasetya, Dewa Dharma and Gumilar, Lingga and Akhbar, Fakhrian and Triyulinar, Erika Rizky},\n  booktitle={2022 4th International Conference on Cybernetics and Intelligent System (ICORIS)},\n  pages={1--5},\n  year={2022},\n  organization={IEEE}\n}"
+    }
+  }
+
 ]
